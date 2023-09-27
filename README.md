@@ -1,9 +1,8 @@
 
+![Screenshot (68)](https://github.com/Lavesh12/Job-portal/assets/94188971/5f3e2b27-72c4-44b3-9301-8a9b46772e73)
 
-![Screenshot (68)](https://github.com/Lavesh12/Job-portal/assets/94188971/4a861ea5-a8b8-4c50-815c-a984fa458184)
 
-
-![Screenshot (69)](https://github.com/Lavesh12/Job-portal/assets/94188971/0adfdebe-8958-4324-8024-b59b7ea0391c)
+![Screenshot (69)](https://github.com/Lavesh12/Job-portal/assets/94188971/dc52d918-d97d-4be2-ba5e-d4941c1bbfe6)
 
 
 # Getting Started with Create React App
