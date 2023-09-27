@@ -1,3 +1,7 @@
+
+![Screenshot (68)](https://github.com/Lavesh12/Job-portal/assets/94188971/6dcd0f3e-3928-41f8-8b6b-a331eeb4684f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
